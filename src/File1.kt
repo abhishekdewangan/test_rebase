@@ -8,6 +8,10 @@ class File1 {
 
     }
 
+    fun test3() {
+
+    }
+
     fun test4() {
 
     }
