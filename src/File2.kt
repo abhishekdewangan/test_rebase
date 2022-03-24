@@ -4,4 +4,8 @@ class File2 {
     fun test2() {
 
     }
+
+    fun test5() {
+
+    }
 }
